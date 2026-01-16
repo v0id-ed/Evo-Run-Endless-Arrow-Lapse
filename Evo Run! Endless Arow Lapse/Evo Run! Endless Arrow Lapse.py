@@ -6,7 +6,6 @@ from PIL import Image, ImageSequence
 import math
 
 pygame.init()
-##Test
 
 # ---------------- CONFIG ----------------
 WIDTH, HEIGHT = 800, 600
